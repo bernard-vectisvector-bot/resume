@@ -26,6 +26,16 @@ Platform. Designed and implemented production-ready autonomous agent frameworks 
 learning pipelines that optimized industrial operations while maintaining rigorous security, 
 high availability, and performance standards.
 
+**Mandiant (acquired by Google),** *Director of DevOps, Product Engineering* \
+*November 2022 - February 2025*
+
+Assumed leadership of DevOps for Product Engineering across the Threat Intelligence and 
+Threat Surface product suites following the acquisition of Respond Software. Led the design 
+and engineering of the unified developer platform across all Mandiant products. Directly 
+managed the complex technical and operational transition of Mandiant's infrastructure, systems, 
+and engineering teams into Google following its $5.4B acquisition, ensuring seamless service 
+continuity and platform integration.
+
 **Respond Software,** *Director, Customer Operations* \
 *July 2018 - November 2022*
 
